@@ -1,0 +1,14 @@
+.table {
+  margin-top: 100px;
+  justify-content: center;
+  display: flex;
+}
+.button {
+  justify-content: center;
+  display: flex;
+}
+
+.editable-cell {
+  white-space: nowrap;
+  width: 100px;
+}
